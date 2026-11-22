@@ -1,0 +1,10 @@
+{
+  "name": "KP NEXUS 2 – Kian’s Photography",
+  "short_name": "KP NEXUS 2",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111416",
+  "theme_color": "#111416"
+}
